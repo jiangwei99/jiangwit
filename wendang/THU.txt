@@ -1,1 +1,2 @@
   pip install xx -i https://pypi.tuna.tsinghua.edu.cn/simple
+<pre> pip install xx -i https://pypi.tuna.tsinghua.edu.cn/simple </pre>
